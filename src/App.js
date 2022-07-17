@@ -39,6 +39,7 @@ function reducer(state, { type, payload }) {
     case ACTIONS.CHOOSE_OPERATION:
       if (state.currentOperand == null && state.previousOperand == null) {
         return state
+        
       }
 
       if (state.currentOperand == null) {
