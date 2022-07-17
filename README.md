@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React Calculator Webapp
+## [DEMO THIS APP](https://CharlieJRBenson.github.io/react-calculator)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple Calculator built using React, deployed to Github Pages.
+This Project presents example use of the useReducer() React Hook.
+
+Clone Repo and run locally with `npm start`.
+
+
 
 ## Available Scripts
 
