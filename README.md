@@ -8,7 +8,7 @@ Clone Repo and run locally with `npm start`.
 
 
 
-## Available Scripts
+## Generic 'ReactApp Generated' README below
 
 In the project directory, you can run:
 
